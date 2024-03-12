@@ -10,7 +10,10 @@
 
 - 将阿里 [QWen-VL](https://github.com/QwenLM/Qwen-VL) 双模型（Plus & Max）通过 API 调用引入到 ComfyUI 中，初测下来 QWen-VL 是目前开源世界最好的视觉模型
 
-- 目前 QWen-VL API 免费开放，你可以在这里申请一个自己的 API Key：[QWen-VL API 申请](https://help.aliyun.com/zh/dashscope/developer-reference/activate-dashscope-and-create-an-api-key)
+- 目前 QWen-VL API 免费开放（🆕刚收到阿里的通知：3.18开始正式收费！收费标准见下图），你可以在这里申请一个自己的 API Key：[QWen-VL API 申请](https://help.aliyun.com/zh/dashscope/developer-reference/activate-dashscope-and-create-an-api-key)
+
+  ![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API/assets/140084057/8e28aa5a-637b-43b6-b43b-a98da7d01779)
+
 
 - 版本：V1.0 支持单/多轮对话双模式、支持读取本地图像
 
