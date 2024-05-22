@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-qwen-vl-api"
+description = "QWen-VL-Plus & QWen-VL-Max in ComfyUI"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["dashscope"]
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Qwen-VL-API"
+Icon = ""
